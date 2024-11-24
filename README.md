@@ -85,10 +85,12 @@ gui_show
 
 
 #### Area report:
-![WhatsApp Image 2024-11-22 at 12 02 45_a8d4b260](https://github.com/user-attachments/assets/2b3831b6-e207-45ea-9518-4bccbf232675)
+![image](https://github.com/user-attachments/assets/72898662-45b9-4334-8b4a-292018f091d6)
+
 
 #### Power Report:
-![WhatsApp Image 2024-11-22 at 12 02 46_0c33946d](https://github.com/user-attachments/assets/18c5bb72-be4d-412d-b89d-091ae68092b4)
+![image](https://github.com/user-attachments/assets/c7010135-ce47-41ce-8a24-d26941f526a3)
+
 
 #### Result: 
 
